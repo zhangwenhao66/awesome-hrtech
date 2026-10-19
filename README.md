@@ -17,3 +17,6 @@ A curated list of awesome HRTech products
 ## ATS
 1. [Lever](https://www.lever.co/) - New player in the ATS game with top notch UX and many great features
 2. [HireHive](http://hirehive.io/) - Simple and easy to use ATS
+
+## Calculators
+1. [HRPay Pick Employee Cost Calculator](https://hrpaypick.com/employee-cost-calculator/) - Free estimator for true employer cost beyond base pay.
